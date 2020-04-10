@@ -1,0 +1,45 @@
+{"cauhoi":[
+{
+	"tag":"greeting",
+	"question":[""],
+	"reply":[],
+	"context_set":""
+}
+{
+	"tag":"greeting",
+	"question":[""],
+	"reply":[],
+	"context_set":""
+}
+{
+	"tag":"goodbye",
+	"question":[""],
+	"reply":[],
+	"context_set":""
+}
+{
+	"tag":"age",
+	"question":[""],
+	"reply":[],
+	"context_set":""
+}
+{
+	"tag":"name",
+	"question":[""],
+	"reply":[],
+	"context_set":""
+}
+{
+	"tag":"hours",
+	"question":[""],
+	"reply":[],
+	"context_set":""
+}
+{
+	"tag":"color",
+	"question":[""],
+	"reply":[],
+	"context_set":""
+}
+]
+}
